@@ -1,0 +1,11 @@
+setup.py
+work_with_git/__init__.py
+work_with_git/main.py
+work_with_git/repo.py
+work_with_git/user.py
+work_with_git/user_interface.py
+work_with_git.egg-info/PKG-INFO
+work_with_git.egg-info/SOURCES.txt
+work_with_git.egg-info/dependency_links.txt
+work_with_git.egg-info/requires.txt
+work_with_git.egg-info/top_level.txt
